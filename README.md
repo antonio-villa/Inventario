@@ -1,2 +1,2 @@
 # Inventario
-inventario con punto de venta basico
+inventario con punto de venta sin punto de cobro
