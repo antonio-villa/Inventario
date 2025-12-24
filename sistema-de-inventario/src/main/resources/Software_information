@@ -1,0 +1,8 @@
+El materiales se desarrollo con la versiones superiores de java 11 en la cual el software cuenta con las
+siguientes caracteristicas de un CRUD y el cual se le agrego un punto de ventas
+
+post data: aun no manejo las buenas practicas de los patrones de diseño
+
+el funcionamiento es simple para el enpoind de punto de ventas solo le pido el nombre del materiales y la cantidad
+de productos que se va a agregar con siertas condiciones para ver si existe el materiales en la base de datos y si
+existe la cantidad que se desea agregar lo demas es un simple crud
